@@ -35,9 +35,7 @@ This project demonstrates:
 | Category | Technology |
 |-----------|-------------|
 | **Frontend** | HTML5, CSS3, JavaScript (ES6) |
-| **API** | [GitHub REST API](https://docs.github.com/en/rest) |
-| **Icons** | [Font Awesome 6](https://fontawesome.com/) |
-| **Deployment** | GitHub Pages |
+| **API** | [GitHub REST API](https://docs.github.com/en/rest) | 
 | **Code Editor** | VS Code |
 
 ---
